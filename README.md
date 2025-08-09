@@ -1,3 +1,5 @@
+# Creators Butler Bounty (Starter Repo)
+
 This repository contains the **public bounty brief** and a **Starter Kit** scaffold for teams.
 
 ## QuickStart
@@ -8,6 +10,9 @@ make up          # bring up skeleton services
 make demo        # run the demo script (stub)
 make down        # stop everything
 ```
+
+
+> **Timeline:** Launch Aug 11, 2025 → Submissions due **January 01, 2026** (23:59 CT)
 
 ## Structure
 - `docs/` – Full bounty brief, judging procedure, and anti-gaming notes.
